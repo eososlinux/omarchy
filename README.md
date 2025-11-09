@@ -8,6 +8,5 @@ Read more at [omarchy.org](https://omarchy.org).
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
 
----
+```bash
 curl -fsSL https://raw.githubusercontent.com/eososlinux/omarchy/master/install.sh | bash
----
